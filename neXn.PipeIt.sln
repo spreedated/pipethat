@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "neXn.PipeIt", "neXn.PipeIt\neXn.PipeIt.csproj", "{7C32705C-720D-467D-8855-354067DBE7EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{F20522B0-B9BF-4656-898D-275672A1A1A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C32705C-720D-467D-8855-354067DBE7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C32705C-720D-467D-8855-354067DBE7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C32705C-720D-467D-8855-354067DBE7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C32705C-720D-467D-8855-354067DBE7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20522B0-B9BF-4656-898D-275672A1A1A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20522B0-B9BF-4656-898D-275672A1A1A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20522B0-B9BF-4656-898D-275672A1A1A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20522B0-B9BF-4656-898D-275672A1A1A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35CDC6BB-4EF7-48AE-86AA-A9E97EE84652}
+	EndGlobalSection
+EndGlobal
